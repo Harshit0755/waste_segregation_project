@@ -263,4 +263,4 @@ int convertToPercent(int value)
   percentValue = map(value, 1023, 465, 0, 100);
   return percentValue;
 }
-1 day ago2 day ago3 day ago4 day ago5 day ago6 day ago7 day ago8 day ago9 day ago10 day ago11 day ago12 day ago13 day ago14 day ago15 day ago16 day ago17 day ago18 day ago19 day ago20 day ago
+1 day ago2 day ago3 day ago4 day ago5 day ago6 day ago7 day ago8 day ago9 day ago10 day ago11 day ago12 day ago13 day ago14 day ago15 day ago16 day ago17 day ago18 day ago19 day ago20 day ago21 day ago
