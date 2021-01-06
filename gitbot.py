@@ -1,7 +1,7 @@
 import os
 
 ## Number of days you want to make commits
-for i in range(1,2*2 + 1):
+for i in range(1,28*2 + 1):
     d = str(i) + ' day ago'
     ## Open a text file and modify it
     with open('waste_segregation.ino', 'a') as file:
