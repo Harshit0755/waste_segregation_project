@@ -12,4 +12,4 @@ for i in range(1,2*2 + 1):
     os.system('git commit --date="' + d + '" -m "first commit"')
 
 ## push the commit to github
-os.system('git push origin BRANCH --force')
+os.system('git push origin HEAD:A')
